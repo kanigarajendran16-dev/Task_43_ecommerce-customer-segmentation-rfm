@@ -1,0 +1,11 @@
+Metric,Value
+Data Source,UCI Online Retail dataset
+Valid Transactions,392692
+Unique Customers,4338
+Unique Orders,18532
+Total Revenue,8887208.89
+Average Revenue per Order,479.56
+Duplicate Rows Removed,5268
+Original Rows,541909
+Cleaned Transaction Rows,392692
+Number of Clusters,4
